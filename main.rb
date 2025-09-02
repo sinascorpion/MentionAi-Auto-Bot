@@ -42,7 +42,7 @@ end
 
 def display_banner
   puts BANNER.colorize(:magenta)
-  puts '      LETS FUCK THIS TESTNET CREATED BY KAZUHA787      '.colorize(:magenta)
+  puts '      LETS FUCK THIS TESTNET CREATED BY https://t.me/irdropper      '.colorize(:magenta)
   puts '==========================================='.colorize(:magenta)
 end
 
