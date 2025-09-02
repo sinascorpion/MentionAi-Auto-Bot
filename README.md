@@ -21,7 +21,6 @@
 - [Error Handling](#error-handling)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
