@@ -243,6 +243,23 @@ Contributions are welcome! To contribute:
 Please ensure your code follows Ruby best practices and includes appropriate comments.
 
 ---
+## Resolve Backend error
+![photo_2025-09-10_10-24-06](https://github.com/user-attachments/assets/4fe48eee-c5e4-4f7b-b71e-0740d1920926)
+
+If you cope with `Backend did not return success` do these steps
+
+* Go to https://picoapps.xyz/builder and sign up with your Google account.
+
+Click + New App and choose Standard (Pico).
+
+Select Use for ChatGPT API.
+
+Click Edit code, then scroll down a bit until you find the API URL.
+
+Copy the full API URL.
+
+Open the `main.rb` file and replace BACKEND_API_URL with the copied API URL.
+---
 
 ## License
 
