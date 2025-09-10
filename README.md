@@ -250,15 +250,15 @@ If you cope with `Backend did not return success` do these steps
 
 * Go to https://picoapps.xyz/builder and sign up with your Google account.
 
-Click + New App and choose Standard (Pico).
+* Click + New App and choose Standard (Pico).
 
-Select Use for ChatGPT API.
+* Select Use for ChatGPT API.
 
-Click Edit code, then scroll down a bit until you find the API URL.
+* Click Edit code, then scroll down a bit until you find the API URL.
 
-Copy the full API URL.
+* Copy the full API URL.
 
-Open the `main.rb` file and replace BACKEND_API_URL with the copied API URL.
+* Open the `main.rb` file and replace BACKEND_API_URL with the copied API URL.
 ---
 
 ## License
