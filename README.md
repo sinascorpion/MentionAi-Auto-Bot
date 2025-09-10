@@ -259,6 +259,16 @@ If you cope with `Backend did not return success` do these steps
 * Copy the full API URL.
 
 * Open the `main.rb` file and replace BACKEND_API_URL with the copied API URL.
+  
+‼️ If you still encounter any error, delete the entire folder and do a clean install
+```bash
+# back to your root directory
+cd
+# remove the entire folder
+rm -r MentionAi-Auto-Bot
+``` 
+Then do [installation](https://github.com/sinascorpion/MentionAi-Auto-Bot?tab=readme-ov-file#installation) again and replace your API before starting the bot.
+
 ---
 
 ## License
