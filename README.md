@@ -259,6 +259,10 @@ If you cope with `Backend did not return success` do these steps
 * Copy the full API URL.
 
 * Open the `main.rb` file and replace BACKEND_API_URL with the copied API URL.
+```bash
+nano main.rb
+```
+After replacing your API psuh `CTRL+X` together then send `y` and then press `Enter` button.
   
 ‼️ If you still encounter any error, delete the entire folder and do a clean install
 ```bash
